@@ -1,16 +1,16 @@
 {
     "name":"city in country",
     "prompt_templates":[
-       "{} is part of",
-       "{} is in the country of"
+       "{} is part of {}",
+       "{} is in the country of {}"
     ],
 	"confident_prompt_templates":[
-	   "It is absolutely certain that {} is part of",
-       "I am completely certain that {} is in the country of"
+	   "It is absolutely certain that {} is part of {}",
+       "I am completely certain that {} is in the country of {}"
 	],
 	"hedged_prompt_templates":[
-       "It seems likely that {} might be part of",
-       "I think {} might be in the country of"
+       "It seems likely that {} might be part of {}",
+       "I think {} might be in the country of {}"
 	],
     "prompt_templates_zs":[
        "{} is part of the country of",
