@@ -2,7 +2,7 @@
 
 Simple dataset of subject–relation–object facts for testing models. Prompt sets used:
 
-## Neutral (given, unchanged)
+## Neutral (given, unchanged except adding {} for both subject/object)
 "prompt_templates":[
     "neutral 1",
     "neutral 2"
